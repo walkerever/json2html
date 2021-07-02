@@ -6,7 +6,6 @@ import argparse
 import os
 import re
 import json
-import yaml
 import random
 import string
 
@@ -127,9 +126,6 @@ class JsonConverter:
             if type(v) is dict or type(v) is list:
                 return False
         return True
-
-    def json2yaml(self):
-        return yaml.safe_dump(self.__obj, default_flow_style=False)
 
 
     def json2html_helper(self, obj, lvl=0):
@@ -283,21 +279,6 @@ def json2html_main():
             INPUT = f.read()
     else:
         INPUT = sys.stdin.read()
-
-    if args.yaml:
-        print(
-            JsonConverter(
-                INPUT,
-                tblattr=args.attributes,
-                sort=args.sorted,
-                sort_by_val=args.dtbyval,
-                keys_included=args.keys_included,
-                keys_excluded=args.keys_excluded,
-                sortkeywords=args.keyorder,
-                maxrows=args.maxrows,
-            ).json2yaml()
-        )
-        sys.exit(0)
 
     print(
         JsonConverter(
