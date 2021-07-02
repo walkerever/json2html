@@ -44,11 +44,11 @@ show JSON in HTML.  rows sampling, collapse/expand, etc.
 
 </pre>
 
-
+----
 
 ###  conver to plain HTML
 
-[yonghang@W5202860 json2html]$ curl -s walkerever.com/share/test/json/s6.json | python -mjson2html
+`[yonghang@W5202860 json2html]$ curl -s walkerever.com/share/test/json/s6.json | python -mjson2html`
 
 <tt>
 <table style="border-collapse:collapse;;" border=1 >
@@ -163,11 +163,11 @@ show JSON in HTML.  rows sampling, collapse/expand, etc.
 </table>
 
 
-
+----
 
 ### with -Z option
 
-[yonghang@W5202860 json2html]$ curl -s walkerever.com/share/test/json/s6.json | python -mjson2html -Z
+`[yonghang@W5202860 json2html]$ curl -s walkerever.com/share/test/json/s6.json | python -mjson2html -Z`
 
 <header>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> 
