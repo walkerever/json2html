@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="json2html",
+    name="json_to_html",
     version="1.0.1",
     description="show JSON in HTML",
     long_description=README,
