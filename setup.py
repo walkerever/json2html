@@ -14,7 +14,7 @@ setup(
     description="show JSON in HTML",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/laowangv5/json2html",
+    url="https://github.com/walkerever/json2html",
     author="Yonghang Wang",
     author_email="wyhang@gmail.com",
     license="Apache 2",
