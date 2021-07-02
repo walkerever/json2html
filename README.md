@@ -7,8 +7,8 @@ show JSON in HTML.  rows sampling, collapse/expand, etc.
 ----
 
 ## Installation
-    `pip install json_to_html`
-   run it through `json2html` or `python -mjson2html`
+   - pip install json_to_html 
+   - run : "json2html" or "python -mjson2html"
 
 ----
 
@@ -195,7 +195,7 @@ show JSON in HTML.  rows sampling, collapse/expand, etc.
 </header>
 
 <tt>
-<table style="border-collapse:collapse;;" border=1>
+<table style="border-collapse:collapse;;" border=1 bgcolor="#00001A">
 <tr class="parent" id="vsTUnNFtCwPwaGtcoVKZ" title="Click to expand/collapse" style="cursor: pointer;"> <td bgcolor="#000033">D(1)</td> </tr>
 <tr class="child-vsTUnNFtCwPwaGtcoVKZ">
 <td valign="top"><b>users</b></td>
