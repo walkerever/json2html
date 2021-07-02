@@ -1,3 +1,6 @@
+## [doc on github.io](https://walkerever.github.io/)
+
+
 # json2html
 show JSON in HTML.  rows sampling, collapse/expand, etc.
 
@@ -56,103 +59,103 @@ show JSON in HTML.  rows sampling, collapse/expand, etc.
 <td valign="top"><b>users</b></td>
     <td>
         <table style="border-collapse:collapse;;" border=1 width="100%">
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>userId</b></td>
             <td>1</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>firstName</b></td>
             <td>Krish</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>lastName</b></td>
             <td>Lee</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>phoneNumber</b></td>
             <td>123456</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>emailAddress</b></td>
             <td>krish.lee@learningcontainer.com</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:F8F8F8">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:0F0F0F">
             <td valign="top"><b>userId</b></td>
             <td>2</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:F8F8F8">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:0F0F0F">
             <td valign="top"><b>firstName</b></td>
             <td>racks</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:F8F8F8">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:0F0F0F">
             <td valign="top"><b>lastName</b></td>
             <td>jacson</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:F8F8F8">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:0F0F0F">
             <td valign="top"><b>phoneNumber</b></td>
             <td>123456</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:F8F8F8">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:0F0F0F">
             <td valign="top"><b>emailAddress</b></td>
             <td>racks.jacson@learningcontainer.com</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>userId</b></td>
             <td>3</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>firstName</b></td>
             <td>denial</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>lastName</b></td>
             <td>roast</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>phoneNumber</b></td>
             <td>33333333</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>emailAddress</b></td>
             <td>denial.roast@learningcontainer.com</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:F8F8F8">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:0F0F0F">
             <td valign="top"><b>userId</b></td>
             <td>4</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:F8F8F8">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:0F0F0F">
             <td valign="top"><b>firstName</b></td>
             <td>devid</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:F8F8F8">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:0F0F0F">
             <td valign="top"><b>lastName</b></td>
             <td>neo</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:F8F8F8">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:0F0F0F">
             <td valign="top"><b>phoneNumber</b></td>
             <td>222222222</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:F8F8F8">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:0F0F0F">
             <td valign="top"><b>emailAddress</b></td>
             <td>devid.neo@learningcontainer.com</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>userId</b></td>
             <td>5</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>firstName</b></td>
             <td>jone</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>lastName</b></td>
             <td>mac</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>phoneNumber</b></td>
             <td>111111111</td>
         </tr>
-        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#FFFFFF">
+        <tr class="child-cBSfPBIIqxIXwjzFNXOT" style="background-color:#000000">
             <td valign="top"><b>emailAddress</b></td>
             <td>jone.mac@learningcontainer.com</td>
         </tr>
@@ -182,110 +185,110 @@ show JSON in HTML.  rows sampling, collapse/expand, etc.
 </header>
 
 <tt>
-<table style="border-collapse:collapse;;" border=1 bgcolor="#FFFFFF">
+<table style="border-collapse:collapse;;" border=1 bgcolor="#000000">
 <tr class="parent" id="vsTUnNFtCwPwaGtcoVKZ" title="Click to expand/collapse" style="cursor: pointer;"> <td bgcolor="#FFFFCC">D(1)</td> </tr>
 <tr class="child-vsTUnNFtCwPwaGtcoVKZ">
 <td valign="top"><b>users</b></td>
     <td>
         <table style="border-collapse:collapse;;" border=1 width="100%">
         <tr class="parent" id="qsqXBwVoGoUUMMmqFbFi" title="Click to expand/collapse" style="cursor: pointer;"> <td bgcolor="#FFFFCC">L(5)</td> </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>userId</b></td>
             <td>1</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>firstName</b></td>
             <td>Krish</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>lastName</b></td>
             <td>Lee</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>phoneNumber</b></td>
             <td>123456</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>emailAddress</b></td>
             <td>krish.lee@learningcontainer.com</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:F8F8F8">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:0F0F0F">
             <td valign="top"><b>userId</b></td>
             <td>2</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:F8F8F8">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:0F0F0F">
             <td valign="top"><b>firstName</b></td>
             <td>racks</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:F8F8F8">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:0F0F0F">
             <td valign="top"><b>lastName</b></td>
             <td>jacson</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:F8F8F8">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:0F0F0F">
             <td valign="top"><b>phoneNumber</b></td>
             <td>123456</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:F8F8F8">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:0F0F0F">
             <td valign="top"><b>emailAddress</b></td>
             <td>racks.jacson@learningcontainer.com</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>userId</b></td>
             <td>3</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>firstName</b></td>
             <td>denial</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>lastName</b></td>
             <td>roast</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>phoneNumber</b></td>
             <td>33333333</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>emailAddress</b></td>
             <td>denial.roast@learningcontainer.com</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:F8F8F8">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:0F0F0F">
             <td valign="top"><b>userId</b></td>
             <td>4</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:F8F8F8">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:0F0F0F">
             <td valign="top"><b>firstName</b></td>
             <td>devid</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:F8F8F8">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:0F0F0F">
             <td valign="top"><b>lastName</b></td>
             <td>neo</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:F8F8F8">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:0F0F0F">
             <td valign="top"><b>phoneNumber</b></td>
             <td>222222222</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:F8F8F8">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:0F0F0F">
             <td valign="top"><b>emailAddress</b></td>
             <td>devid.neo@learningcontainer.com</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>userId</b></td>
             <td>5</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>firstName</b></td>
             <td>jone</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>lastName</b></td>
             <td>mac</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>phoneNumber</b></td>
             <td>111111111</td>
         </tr>
-        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#FFFFFF">
+        <tr class="child-qsqXBwVoGoUUMMmqFbFi" style="background-color:#000000">
             <td valign="top"><b>emailAddress</b></td>
             <td>jone.mac@learningcontainer.com</td>
         </tr>
@@ -294,9 +297,3 @@ show JSON in HTML.  rows sampling, collapse/expand, etc.
     </td>
 </tr>
 </table>
-
-
-
-
-
-
