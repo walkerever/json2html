@@ -4,6 +4,16 @@
 # json2html
 show JSON in HTML.  rows sampling, collapse/expand, etc.
 
+----
+
+## Installation
+    `pip install json_to_html`
+   run it through `json2html` or `python -mjson2html`
+
+----
+
+## Examples
+
 <pre>[yonghang@W5202860 json2html]$ curl -s walkerever.com/share/test/json/s6.json | qic
 {
   <font color="#008700"><b>&quot;users&quot;</b></font>: [
